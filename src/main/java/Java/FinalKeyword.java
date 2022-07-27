@@ -11,6 +11,8 @@ public class FinalKeyword {
 		
 		final int days = 7;
 		//Prevent the overriding and inheritance 
+		System.out.println(days);
+		
 	}
 
 }
