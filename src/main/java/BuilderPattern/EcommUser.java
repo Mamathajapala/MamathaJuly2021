@@ -16,6 +16,7 @@ public class EcommUser {
 		.doSearch("Airpods")
 		.doPayment("TD Bank", "test123")
 		.logout();
+		System.out.println("--------------");
 		
 		
 		int orderId= shop.generateOrderId();
